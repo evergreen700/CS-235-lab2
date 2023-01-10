@@ -1,17 +1,4 @@
-This code includes a set of files that you should not modify
- (and you really don’t need to to understand them to get this to work properly).  
- These files are main.cpp, graphicsStuff.cpp, NavigationInterface.h, and a 
- variety of text files specifying road networks (you can create more road 
- networks if you want).
-
-To complete this lab, you should add to the supplied code to create a class
- called Navigation that inherits from (and implements) the interface file
-  NavigationInterface.h.  You should do this by creating a Navigation.cpp
-   and and Navigation.h file (the class should inherit from NavigationInterface.h).
-
-While you should not modify main.cpp, graphicsStuff.cpp, and NavigationInterface.cpp,
- a little information about them is helpful.  Indeed, the content about main.cpp 
- describes how you run the program (once you get it to compile).
+The following files were given as part of the lab assignments. The actuall assignemnt is the Navigation.cpp and Navigation.h files
 
 ------------
 
